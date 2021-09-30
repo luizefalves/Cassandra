@@ -1,6 +1,6 @@
-# Projeto: Modelagem de dados com Apache Cassandra
+# Modelagem de dados com Apache Cassandra
 
-## Comentários sobre bancos de dados relacionais, não relacionais e o Apache Cassandra:
+## 1 - Comentários sobre bancos de dados relacionais, não relacionais e o Apache Cassandra:
 
 Bancos de dados do tipo **relacional** quase sempre utilizam operações de consulta do tipo SQL,
 que são fundamentadas na Álgebra de Relações.
@@ -32,7 +32,7 @@ para os primeiros protótipos de um projeto.
 
 
 
-## Visão Geral do Projeto:
+## 2 - Visão Geral do Projeto:
 
 Esse projeto é parte do curso **Udacity Data Engineering Nanodegree** e tem por objetivo trabalhar com algumas
 funcionalidades básicas do Apache Cassandra.
@@ -58,7 +58,7 @@ As respostas a estas perguntas estão nas seguintes tabelas:
 3. **`userinfo_by_song`**
 
 
-## Para rodar em um container Docker:
+## 3 - Execução no Docker:
 
 
 ```{bash}
